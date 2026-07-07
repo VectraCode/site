@@ -67,10 +67,9 @@ a:hover {
 }
 
 .brand-mark {
-  width: 36px;
-  height: 36px;
-  border-radius: 8px;
-  box-shadow: 0 8px 22px rgba(49, 87, 255, 0.22);
+  width: 38px;
+  height: 38px;
+  object-fit: contain;
 }
 
 .nav {

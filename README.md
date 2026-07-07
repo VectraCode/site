@@ -8,6 +8,8 @@ This folder is ready to publish as the root of a GitHub Pages repository for
 - `index.html` - public VectraCode / Control+ landing page.
 - `control/privacy/index.html` - public Control+ privacy policy.
 - `styles.css` - shared styling.
+- `assets/vectracode-brand-mark.png` - cropped VectraCode brand mark.
+- `assets/vectracode-logo-source.png` - original VectraCode logo image.
 - `assets/control-icon.png` - current Control+ app icon source.
 - `CNAME` - GitHub Pages custom domain.
 - `.nojekyll` - disables Jekyll processing on GitHub Pages.

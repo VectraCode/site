@@ -16,8 +16,8 @@ This folder is ready to publish as the root of a GitHub Pages repository for
 
 ## Before Publishing
 
-Replace `LEGAL_PUBLISHER_CONTACT` in `control/privacy/index.html` with the real
-legal publisher/contact wording for the first release.
+Review `control/privacy/index.html` whenever the app's data handling, purchases,
+analytics, accounts, or cloud features change.
 
 ## GitHub Pages Setup
 

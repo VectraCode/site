@@ -5,18 +5,18 @@ This folder is ready to publish as the root of a GitHub Pages repository for
 
 ## Files
 
-- `index.html` - public VectraCode / Control+ landing page.
-- `control/privacy/index.html` - public Control+ privacy policy.
+- `index.html` - public VectraCode / Ritera landing page.
+- `ritera/privacy/index.html` - public Ritera privacy policy.
 - `styles.css` - shared styling.
 - `assets/vectracode-brand-mark.png` - cropped VectraCode brand mark.
 - `assets/vectracode-logo-source.png` - original VectraCode logo image.
-- `assets/control-icon.png` - current Control+ app icon source.
+- `assets/ritera-icon.png` - current Ritera app icon source.
 - `CNAME` - GitHub Pages custom domain.
 - `.nojekyll` - disables Jekyll processing on GitHub Pages.
 
 ## Before Publishing
 
-Review `control/privacy/index.html` whenever the app's data handling, purchases,
+Review `ritera/privacy/index.html` whenever the app's data handling, purchases,
 analytics, accounts, or cloud features change.
 
 ## GitHub Pages Setup
@@ -33,4 +33,4 @@ analytics, accounts, or cloud features change.
 After DNS finishes propagating, these URLs should work:
 
 - `https://vectracode.net`
-- `https://vectracode.net/control/privacy`
+- `https://vectracode.net/ritera/privacy`
